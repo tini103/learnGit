@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 const HelloWorld = props => {
     return (
         <View>
-            <Text>Hi There</Text>
+            <Text>Hi There second</Text>
         </View>
     );
 };
